@@ -1,0 +1,23 @@
+{
+  "experiment_id": "E4",
+  "model_config": {
+    "input_shape": [
+      1,
+      28,
+      28
+    ],
+    "num_classes": 47,
+    "hidden_sizes": [
+      256,
+      128
+    ],
+    "dropout_p": 0.3,
+    "use_batchnorm": true,
+    "activation": "relu"
+  },
+  "optimizer": "Adam",
+  "lr": 0.001,
+  "seed": 42,
+  "dataset": "EMNIST Balanced",
+  "test_accuracy": 0.7836216514309248
+}
