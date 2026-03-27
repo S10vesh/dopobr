@@ -1,0 +1,10 @@
+{
+    "experiment": "C3",
+    "model": "ResNet18",
+    "description": "head-only",
+    "dataset": "STL10",
+    "seed": 42,
+    "lr": "1e-3 (1e-4 \u0434\u043b\u044f backbone \u0432 C4)",
+    "epochs": 10,
+    "best_val_accuracy": 0.955
+}
