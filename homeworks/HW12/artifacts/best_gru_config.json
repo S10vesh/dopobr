@@ -1,0 +1,16 @@
+{
+    "window_size": 30,
+    "hidden_size": 64,
+    "num_layers": 2,
+    "dropout": 0.2,
+    "learning_rate": 0.001,
+    "batch_size": 64,
+    "seed": 42,
+    "scaler_mean": [
+        128.20576058201058
+    ],
+    "scaler_scale": [
+        18.48154222978581
+    ],
+    "best_val_loss": 0.1374186738891509
+}
