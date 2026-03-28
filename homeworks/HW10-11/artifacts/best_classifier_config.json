@@ -9,6 +9,6 @@
   "seed": 42,
   "optimizer": "Adam",
   "lr": 0.0005,
-  "best_val_accuracy": 0.956,
-  "test_accuracy": 0.9459
+  "best_val_accuracy": 0.955,
+  "test_accuracy": 0.9466
 }
